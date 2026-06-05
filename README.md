@@ -1,4 +1,4 @@
-# Knaflic — Portfolio Communication Audit Skill
+# UX-Agent-Skill 📊✨ : Knaflic — Portfolio Communication Audit Skill
 
 A [Cursor Agent Skill](https://docs.cursor.com/) that audits portfolio websites and digital
 interfaces for **communication effectiveness**, using design and narrative principles inspired by
